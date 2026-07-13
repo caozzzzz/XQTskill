@@ -1,0 +1,4 @@
+interface:
+  display_name: "哮天犬"
+  short_description: "查询通用 Markdown 知识库，支持自定义意图路由、索引校验、FAISS、BM25 和记忆"
+  default_prompt: "使用 $xiao-tian-quan 提取或查询 Markdown 知识库；按自定义意图路由查询主题列表、流程、条目知识内容，并按明确指令记住别名、提问偏好和回答偏好。"
